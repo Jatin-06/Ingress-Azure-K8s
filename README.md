@@ -1,14 +1,10 @@
 # [Azure Kubernetes Service AGIC Ingress: 30 Real-World Demos](https://links.stacksimplify.com/azure-kubernetes-service-agic)
 
-[![Image](azure-agic1.png "Azure Kubernetes Service AGIC Ingress: 30 Real-World Demos")](https://links.stacksimplify.com/azure-kubernetes-service-agic)
+[![Image]
 
-
-
-## [Course Details](https://links.stacksimplify.com/azure-kubernetes-service-agic)
-- **Title:** [Azure Kubernetes Service AGIC Ingress: 30 Real-World Demos](https://links.stacksimplify.com/azure-kubernetes-service-agic)
+- **Title:** [Azure Kubernetes Service AGIC Ingress: 30 Real-World Demos]
 - **Sub Title:** Ingress URL & Domain Routing, Health Probes, Helm, Cert-Manager, External DNS, Lets Encrypt, E2E SSL, WAF, Rewrite Rules
 
-## [Course Modules](https://links.stacksimplify.com/azure-kubernetes-service-agic)
 01. AGIC Install Greenfield
 02. AGIC Default Backend
 03. AGIC Ingress Paths
@@ -53,54 +49,13 @@
 - You will implement Azure Application Gateway Ingress Controller (AGIC) Watch Namespaces concept with 2 practical demos. 
 - You will also implement Ingress important concepts cookie based affinity, backend path prefix, backend hostname, override frontend ports and Rewrite Rule sets
 
-## [What are the requirements or prerequisites for taking your course?](https://links.stacksimplify.com/azure-kubernetes-service-agic)
+## [What are the requirements or prerequisites for taking your course?]
 - You must have Kubernetes knowledge and experience to follow with me for hands-on activities.
 
-## [Who is this course for?](https://links.stacksimplify.com/azure-kubernetes-service-agic)
+## [Who is this course for?]
 - This course is designed for students who have completed my Azure Kubernetes Service with Azure DevOps and Terraform course
 - Infrastructure Architects or Sysadmins or Developers or DevOps Engineers who are planning to master Internet Edge traffic for Azure AKS Clusters using Load Balancers
 
-## [Github Repositories used for this course](https://links.stacksimplify.com/azure-kubernetes-service-agic)
-- [azure-kubernetes-service-agic](https://github.com/stacksimplify/azure-kubernetes-service-agic)
-- [Course Presentation](https://github.com/stacksimplify/azure-kubernetes-service-agic/tree/main/course-presentation)
-- **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
-
-## [Each of my courses come with](https://links.stacksimplify.com/azure-kubernetes-service-agic)
-- Amazing Hands-on Step By Step Learning Experiences
-- Practical demos for each and every concept
-- Friendly Support in the Q&A section
-- "30-Day "No Questions Asked" Money Back Guaranteed by Udemy"
-
-## My Other AWS Courses
-- [Udemy Enroll](https://www.stacksimplify.com/azure-aks/courses/stacksimplify-best-selling-courses-on-udemy/)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
-# HashiCorp Certified: Terraform Associate - 50 Practical Demos
-[![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate) 
-
-# AWS EKS - Elastic Kubernetes Service - Masterclass
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
 
 
-# Azure Kubernetes Service with Azure DevOps and Terraform 
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
-
-# Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-best-seller.png "Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos")](https://links.stacksimplify.com/terraform-on-aws-with-sre-and-iacdevops)
-
-# Azure - HashiCorp Certified: Terraform Associate - 70 Demos
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-highest-rated.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
-
-# Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos
-
-[![Image](https://stacksimplify.com/course-images/terraform-on-azure-with-iac-azure-devops-sre-1.png "Terraform on Azure with IaC DevOps and SRE | Real-World 25 Demos")](https://links.stacksimplify.com/terraform-on-azure-with-iac-devops-sre)
-
-# [Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
-
-[![Image](https://stacksimplify.com/course-images/terraform-on-aws-eks-kubernetes.png "Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos ")](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
-
-# [Helm Masterclass: 50 Practical Demos for Kubernetes DevOps](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
-[![Image](images/helm-highest-rated.png "Helm Masterclass: 50 Practical Demos for Kubernetes DevOps")](https://links.stacksimplify.com/helm-masterclass-kubernetes-devops)
 
